@@ -1,0 +1,2 @@
+- Github es una plataforma de repositorios de forma remota ( hay alternativas como bitbucket )
+- Un repositorio remoto es una copia de un repositorio local donde se pueden realizar varias operaciones distribuidas gracias a la "nube" como clonarlo, crear una copia identica etc. ( esto también se puede hacer desde el local, pero por lo general los ordenadores que usamos no disponen de una ip pública para que otro se pueda conectar a él ).
